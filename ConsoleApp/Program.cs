@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             //Hello
             Console.WriteLine("GitHub vatana millete hayırlı olsun :)");
+            Console.WriteLine("merge");
         }
     }
 }
