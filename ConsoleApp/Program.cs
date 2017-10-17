@@ -11,6 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             //Hello
+            Console.WriteLine("GitHub vatana millete hayırlı olsun :)");
         }
     }
 }
